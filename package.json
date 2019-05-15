@@ -1,0 +1,28 @@
+{
+  "name": "CommandLineTicTacToe",
+  "version": "1.0.0",
+  "description": "How to set up",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wwong007/CommandLineTicTacToe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wwong007/CommandLineTicTacToe/issues"
+  },
+  "homepage": "https://github.com/wwong007/CommandLineTicTacToe#readme",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "webpack": "^4.31.0",
+    "webpack-cli": "^3.3.2"
+  }
+}
